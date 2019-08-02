@@ -1,4 +1,5 @@
 ### MovieC
+# SPA + Spring API
 <hr>
 # 개발 진행 상황
 <hr>
